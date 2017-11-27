@@ -1,0 +1,171 @@
+.homepage-header {
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+
+.homepage-header h1 {
+	line-height: 0.9;
+	letter-spacing: -3px;
+	color: #34a5da;
+	font-size: 115px;
+}
+
+@media only screen and (max-width: 1439px) and (min-width: 1100px) {
+	.homepage-header h1 {
+		font-size: 90px;
+	}
+}
+
+@media only screen and (max-width: 1099px) and (min-width: 768px) {
+	.homepage-header h1 {
+		font-size: 70px
+	}
+}
+
+@media only screen and (max-width: 767px) and (min-width: 414px) {
+	.homepage-header {
+		margin-top: 100px;
+		margin-bottom: 100px;
+	}
+	.homepage-header h1 {
+		font-size: 60px
+	}
+}
+
+@media only screen and (max-width: 413px) {
+	.homepage-header {
+		margin-top: 80px;
+		margin-bottom: 80px;
+	}
+	.homepage-header h1 {
+		font-size: 40px
+	}
+}
+
+.section-news-events .inner h1 {
+	text-transform: uppercase;
+	font-size: 3em;
+	color: #34A5DA;
+	font-weight: 900;
+}
+
+.inner h2 {
+	color: #535353;
+}
+
+.section-news-events a:hover h2 {
+	color: #34A5dA!important;
+}
+
+.section-row.section-news-events.entrance-up.animated.fadeInUp {
+	border-top: none;
+}
+
+.section-row.section-news-events.entrance-up.animated.fadeInUp {
+	border-top: none;
+	background-color: #efefef;
+}
+
+.link-more {
+	color: #535353;
+}
+
+.link-more:hover {
+	color: #34A5DA;
+}
+
+
+header[role="banner"] {
+	border-bottom: none;
+}
+
+.section-find-course form input {
+	background-color: #C9C9C9;
+}
+
+.section-find-course {
+    background-color: #A4A4A4;
+		border-bottom: none;
+}
+
+		.header-stacked span:nth-child(1), #section-ask h2 span:nth-child(1), .section-image h1 span:nth-child(1), .home .section-courses h1 span:nth-child(1), .connect .section-contact h1 span:nth-child(1), .connect .content-find h2 span:nth-child(1) {
+		color: #34A5DA;
+	}
+
+	.header-stacked, #section-ask h2, .section-image h1, .home .section-courses h1, .connect .section-contact h1, .connect .content-find h2 {
+		color: #34A5DA;
+	}
+
+	.link-more:before {
+	    border-left: 13px solid #535353;
+		}
+.section-description .link-more:hover {
+	color: #34A5DA;
+}
+.link-more:hover::before {
+	border-left-color: #34A5DA;
+}
+
+@media only screen and (max-width: 899px) {
+article.Three:nth-of-type(3) {
+    width: 48.26389%!important;
+}
+}
+.section-find-course h1 {
+    color: #fff;
+}
+
+.section-find-course a {
+    color: #fff;
+}
+h2#supporting {
+	text-align: center;
+	color: #34a5da !important;
+	padding: 1em 0;
+	font-weight: 700;
+	line-height: 1.4!important;
+	margin-top: 0;
+}
+
+@media only screen and (max-width: 767px) {
+.course-intro, .section-news-events .inner h1 {
+    font-size: 36px;
+}
+}
+
+@media only screen and (max-width: 767px) {
+.course-sub {
+    font-size: 22px;
+}
+}
+
+@media only screen and (max-width: 1099px) and (min-width: 768px) {
+.course-intro, .section-news-events .inner h1 {
+    font-size: 50px;
+}
+.course-sub {
+font-size: 26px;
+}
+}
+
+@media only screen and (min-width: 1100px) {
+.course-intro, .section-news-events .inner h1 {
+    font-size: 60px;
+}
+.course-sub {
+	font-size:30px;
+	}
+}
+
+
+.section-row.section-featured.entrance.animated.fadeIn {
+	border-top: 0 !important;
+}
+
+.section-row.section-courses {
+	border-top: 0 !important;
+}
+
+.article-grid a:hover h2, .section-featured a:hover h2, .related a:hover h2, .article-grid a:hover h3, .section-featured a:hover h3, .related a:hover h3, .article-grid a:hover .link-more, .section-featured a:hover .link-more, .related a:hover .link-more {
+	color: #34A5DA!important;
+}
