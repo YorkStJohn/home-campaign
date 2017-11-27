@@ -177,3 +177,9 @@ a:hover {
 .item a:hover h2 {
     color: #34A5DA!important;
 }
+
+@media only screen and (max-width: 319px) {
+article.Three:nth-of-type(3) {
+    width: 100%!important;
+}
+}
